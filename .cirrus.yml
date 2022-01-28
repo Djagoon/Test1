@@ -2,7 +2,7 @@ task:
   name: Test IP
   timeout_in: 120m
   environment:
-    TOKEN: ENCRYPTED[de325b1c39c6a48b6ff2b096dff6fc509e1f3349f4cd209b5265577d5761f93aa36001c27654e2e6998b9cc0af69d057]
+    TOKEN: ENCRYPTED[2ee6caff79e234afd0476498900b227143d59a226f18c63f64b334778d71d641c1968442d1c4fdfac90cb4c2f69b8bff]
   container:
     cpu: 8
     memory: 32G
